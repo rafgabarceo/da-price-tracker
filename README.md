@@ -3,13 +3,13 @@ This is a CLI tool that pulls the latest `.pdf` from the Philippines' Department
 From my understanding, DA does not expose any API that can be consumed. For the time-being, this information has to be tracked manually.
 
 ## Features
-- [] Fetch .pdf from DA price tracker.
-- [] Convert .pdf table into JSON.
-- [] Save data into a document.
-- [] Output the information.
+- [ ] Fetch .pdf from DA price tracker.
+- [ ] Convert .pdf table into JSON.
+- [ ] Save data into a document.
+- [ ] Output the information.
 
 ## Possible features
-- [] Fetch .pdf from DTI price tracker.
+- [ ] Fetch .pdf from DTI price tracker.
 
 ## How does it work?
 DA releases a weekly `.pdfs` in `https://www.da.gov.ph/price-monitoring/`.
